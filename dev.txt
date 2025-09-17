@@ -1,4 +1,8 @@
 Devops
+<<<<<<< HEAD
 111111
 rgrdgdrgdg11111
 wfwf
+=======
+111111sefsfs
+>>>>>>> dev
