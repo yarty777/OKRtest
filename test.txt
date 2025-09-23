@@ -5,9 +5,4 @@ adwad
 12313
 etretetetet
 1231312
-12414
-<<<<<<< HEAD
-21313sefsf
-=======
-sfsfs
->>>>>>> dev
+
